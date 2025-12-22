@@ -8,6 +8,7 @@ Please refer to the following documents:
 
 1. [Research Proposal](./documentation/Research_Propsal.pdf)
 2. [Project Report](./documentation/Project_Report.pdf)
+3. [Project Poster](./documentation/Project_Poster.svg)
 
 ## Setting up the python virtual environment
 
